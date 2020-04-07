@@ -1,0 +1,28 @@
+.counter {
+  background-color: beige;
+  border-radius: 20px;
+  margin-bottom: 32px;
+}
+
+.counter button {
+  border-radius: 20px;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
+
+.counter__content {
+  padding: 8px;
+}
+
+.counter__action {
+  width: 100%;
+  padding: 8px 0;
+  font-weight: bold;
+  color: #7c908a;
+}
+
+.counter__action--warn {
+  background-color: #bdb3a6;
+  color: #fff;
+}

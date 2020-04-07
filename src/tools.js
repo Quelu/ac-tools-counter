@@ -1,0 +1,16 @@
+export default [
+  { name: "flimsy-fishing-rod", durability: 10 },
+  { name: "fishing-rod", durability: 30 },
+  { name: "flimsy-net", durability: 10 },
+  { name: "net", durability: 30 },
+  { name: "flimsy-shovel", durability: 25 },
+  { name: "shovel", durability: 100 },
+  { name: "golden-shovel", durability: 200 },
+  { name: "flimsy-axe", durability: 40 },
+  { name: "stone-axe", durability: 100 },
+  { name: "axe", durability: 100 },
+  { name: "golden-axe", durability: 200 },
+  { name: "flimsy-watering-can", durability: 20 },
+  { name: "watering-can", durability: 100 },
+  { name: "slingshot", durability: 20 },
+];
